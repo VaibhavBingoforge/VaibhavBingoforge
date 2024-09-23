@@ -2,11 +2,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
-<center>👋 Hi, I’m Vaibhav Dhokchaule </center> </br> 
+<center>👋 Hi, I’m Vaibhav Dhokchaule </center> </br>
+</div>
 👀 I’m interested in Python and Odoo Software Development.
 🌱 I’m currently learning Odoo and Python Programming. </br>
-👨‍💻 Working as a software developer with a passion for solving real-world problems through code. With experience in python & odoo, I love building applications that make a 
-    difference. I'm always eager to learn new technologies and improve my skill set. Currently, I am working on custom Odoo modules and open-source contributions.</div>
+" Working as a software developer with a passion for solving real-world problems through code. With experience in python & odoo, </br> I love building applications that make 
+  a difference. I'm always eager to learn new technologies and improve my skill set. </br> Currently, I am working on custom Odoo modules and open-source contributions.</br>
 👯 I’m looking to collaborate with Bingoforge Tech Teams & Projects.
 📫 How to reach me vaibhav@bingoforge.com </br>
 😄 Pronouns: Vaibhav
