@@ -4,15 +4,16 @@
 <div id="header" align="center">
 <center>👋 Hi, I’m Vaibhav Dhokchaule </center> </br>
 </div>
+<div id="header" align="center">
+  👀 I’m interested in Python and Odoo Software Development.🌱 I’m currently learning Odoo and Python Programming. </br>
+</div>
 <div id="header" align="justify">
-👀 I’m interested in Python and Odoo Software Development.
-🌱 I’m currently learning Odoo and Python Programming. </br>
-" Working as a software developer with a passion for solving real-world problems through code. With experience in python & odoo, I love building applications that make 
-  a difference. I'm always eager to learn new technologies and improve my skill set. Currently, I am working on custom Odoo modules and open-source contributions.
-👯 I’m looking to collaborate with Bingoforge Tech Teams & Projects.
+ Working as a software developer with a passion for solving real-world problems through code. With experience in python & odoo, I love building applications that make 
+ a difference. I'm always eager to learn new technologies and improve my skill set. Currently, I am working on custom Odoo modules and open-source contributions.</div>
+👯 I’m looking to collaborate with Bingoforge Tech Teams & Projects.</br>
 📫 How to reach me vaibhav@bingoforge.com </br>
-😄 Pronouns: Vaibhav
-⚡ Fun fact: "Coffee + Code = Magic! That's my development equation."☕✍
+😄 Pronouns: Vaibhav </br>
+⚡ Fun fact: "Coffee + Code = Magic! That's my development equation."☕✍ </br>
 
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
