@@ -12,7 +12,7 @@
 
 <div id="header" align="center">
 👯 I’m looking to collaborate with Bingoforge Tech Teams & Projects.</br>
-📫 How to reach me <b style="color:blue;">vaibhav@bingoforge.com</b>  😄 Pronouns: Vaibhav </br>
+📫 How to reach me <b>vaibhav@bingoforge.com</b>  😄 Pronouns: Vaibhav </br>
 ⚡ Fun fact: "Coffee + Code = Magic! That's my development equation."☕✍ </br>
 </div>
 </br>
