@@ -12,12 +12,12 @@
 
 <div id="header" align="center">
 👯 I’m looking to collaborate with Bingoforge Tech Teams & Projects.</br>
-📫 How to reach me vaibhav@bingoforge.com  😄 Pronouns: Vaibhav </br>
+📫 How to reach me <b text-color="blue">vaibhav@bingoforge.com</b>  😄 Pronouns: Vaibhav </br>
 ⚡ Fun fact: "Coffee + Code = Magic! That's my development equation."☕✍ </br>
 </div>
 </br>
 <div id="header" align="center">
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 </div>
 </br>
 <div id="header" align="center">
@@ -26,7 +26,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
+</br>
 <div id="header" align="center">
 🤼 <b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) </b>
 </div>
