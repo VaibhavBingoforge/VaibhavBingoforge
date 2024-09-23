@@ -5,13 +5,13 @@
 <center>👋 Hi, I’m Vaibhav Dhokchaule </center> </br>
 </div>
 <div id="header" align="center">
-  👀 I’m interested in Python and Odoo Software Development.🌱 I’m currently learning Odoo and Python Programming. </br>
+  👀 I’m interested in Python and Odoo Software Development.🌱 Currently learning Odoo with Python Programming. </br>
 </div>
 <div id="header" align="center">
-Experience in python & odoo, love  to building applications that make a difference. I'm always willing to learn new technologies and improve my skill set. Currently, I am working on custom Odoo modules and open-source contributions.</div>
+Experience in python & odoo, love  to building applications that make a difference. Always willing to learn new technologies and improve my skill set. Currently, I am working on custom Odoo modules and open-source contributions.</div>
 <div id="header" align="center">
 👯 I’m looking to collaborate with Bingoforge Tech Teams & Projects.</br>
-📫 How to reach me vaibhav@bingoforge.com  😄 Pronouns: Vaibhav 
+📫 How to reach me vaibhav@bingoforge.com  😄 Pronouns: Vaibhav </br>
 ⚡ Fun fact: "Coffee + Code = Magic! That's my development equation."☕✍ </br>
 </div>
 
