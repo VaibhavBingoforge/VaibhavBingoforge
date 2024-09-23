@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-- 👋 Hi, I’m Vaibhav Dhokchaule
+- 👋 Hi, I’m Vaibhav Dhokchaule </br> 
 - 👀 I’m interested in Python and Odoo Software Development.
 - 🌱 I’m currently learning Odoo and Python Programming.
 - 👯 I’m looking to collaborate with Bingoforge Tech Teams & Projects.
@@ -15,11 +15,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 VaibhavBingoforge/VaibhavBingoforge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
