@@ -4,22 +4,22 @@
 <div id="header" align="center">
 <center>👋 Hi, I’m Vaibhav Dhokchaule </center> </br>
 </div>
+<div id="header" align="justify">
 👀 I’m interested in Python and Odoo Software Development.
 🌱 I’m currently learning Odoo and Python Programming. </br>
-" Working as a software developer with a passion for solving real-world problems through code. With experience in python & odoo, </br> I love building applications that make 
-  a difference. I'm always eager to learn new technologies and improve my skill set. </br> Currently, I am working on custom Odoo modules and open-source contributions.</br>
+" Working as a software developer with a passion for solving real-world problems through code. With experience in python & odoo, I love building applications that make 
+  a difference. I'm always eager to learn new technologies and improve my skill set. Currently, I am working on custom Odoo modules and open-source contributions.
 👯 I’m looking to collaborate with Bingoforge Tech Teams & Projects.
 📫 How to reach me vaibhav@bingoforge.com </br>
 😄 Pronouns: Vaibhav
 ⚡ Fun fact: "Coffee + Code = Magic! That's my development equation."☕✍
 
-<div id="header" align="center">
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
