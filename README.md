@@ -7,13 +7,11 @@
 <div id="header" align="center">
   👀 I’m interested in Python and Odoo Software Development.🌱 Currently learning Odoo with Python Programming. </br>
 </div>
-<div id="header" align="center">
-" Experience in python & odoo, love  to building applications that make a difference. Always willing to learn new technologies and improve my skill set. Currently, I am working on custom Odoo modules and open-source contributions. "</div>
+
 
 <div id="header" align="center">
 👯 I’m looking to collaborate with Bingoforge Tech Teams & Projects.</br>
 📫 How to reach me <b>vaibhav@bingoforge.com</b>  😄 Pronouns: Vaibhav </br>
-⚡ Fun fact: "Coffee + Code = Magic! That's my development equation."☕✍ </br>
 </div>
 </br>
 <div id="header" align="center">
